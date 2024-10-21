@@ -1,0 +1,14 @@
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/bin/Debug/net8.0/VariabelenEnExpressies
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/bin/Debug/net8.0/VariabelenEnExpressies.deps.json
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/bin/Debug/net8.0/VariabelenEnExpressies.runtimeconfig.json
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/bin/Debug/net8.0/VariabelenEnExpressies.dll
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/bin/Debug/net8.0/VariabelenEnExpressies.pdb
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/VariabelenEnExpressies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/VariabelenEnExpressies.AssemblyInfoInputs.cache
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/VariabelenEnExpressies.AssemblyInfo.cs
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/VariabelenEnExpressies.csproj.CoreCompileInputs.cache
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/VariabelenEnExpressies.dll
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/refint/VariabelenEnExpressies.dll
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/VariabelenEnExpressies.pdb
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/VariabelenEnExpressies.genruntimeconfig.cache
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/ref/VariabelenEnExpressies.dll
