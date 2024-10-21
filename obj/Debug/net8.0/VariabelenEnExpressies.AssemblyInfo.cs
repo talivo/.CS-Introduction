@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VariabelenEnExpressies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e83d287bcf87d1adbbde9039740eba55b83b1799")]
 [assembly: System.Reflection.AssemblyProductAttribute("VariabelenEnExpressies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VariabelenEnExpressies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

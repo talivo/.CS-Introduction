@@ -12,3 +12,4 @@
 /Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/VariabelenEnExpressies.pdb
 /Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/VariabelenEnExpressies.genruntimeconfig.cache
 /Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/ref/VariabelenEnExpressies.dll
+/Users/brucewayne/Documents/dev/VariabelenEnExpressies/obj/Debug/net8.0/VariabelenEnExpressies.sourcelink.json
